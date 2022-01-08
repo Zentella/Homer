@@ -16,7 +16,7 @@ bcc16.png"
 </template>
 
 <script>
-import HelloVue from "./HelloVue.vue";
+import HelloVue from "./components/HelloVue.vue";
 
 export default {
   name: "app",
